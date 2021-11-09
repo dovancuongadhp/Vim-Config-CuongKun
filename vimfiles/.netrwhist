@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='E:/test'
+let g:netrw_dirhist_2='E:\test'
+let g:netrw_dirhist_1='E:/test'
+let g:netrw_dirhist_0='E:\1.SOURCE-CODE\Java\Lab1\src\main\java\unicoin'
+let g:netrw_dirhist_9='E:/1.SOURCE-CODE/Java/Lab1/src/main/java/unicoin'
+let g:netrw_dirhist_8='E:\1.SOURCE-CODE\Java\Lab1\src\main\java\unicoin'
+let g:netrw_dirhist_7='E:\test'
+let g:netrw_dirhist_6='E:/test'
+let g:netrw_dirhist_5='E:\test'
+let g:netrw_dirhist_4='C:\Users\dovan\OneDrive\Máy tính'

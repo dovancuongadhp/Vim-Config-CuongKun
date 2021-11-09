@@ -1,0 +1,9 @@
+1.cài đặt plug
+
+2. .vimrc được đặt trong User của window
+
+3. vào .vimrc chạy các lệnh sau :
+	source % 
+	PlugInstall
+
+Oke rồi đó :))
